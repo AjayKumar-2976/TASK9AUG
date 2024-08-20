@@ -1,41 +1,40 @@
-h1{
+body{
+
+    background-image:url(AUG9.avif);
+    background-size: cover;
+ }
+ h1{
     font-size: 70px;
     font-family: cursive;
-    font-style: italic;
+    font-style: oblique;
     font-weight: bolder;
     font-style: unset;
-    text-shadow: 10px 25px black;
+    text-shadow: 10px 25px rgb(143, 145, 122);
 }
 
 #para1{
     font-size: 18;
     font-weight: bold;
     font-style: italic;
-    color: rgb(104, 147, 173);
+    color: rgb(52, 67, 69);
 }
 
 #para2{
     font-size: 18;
     font-weight: bold;
     font-style: inherit;
-  color: rgb(0, 0, 0);
+  color: rgb(7, 99, 142);
 }
 
 #para3{
     font-size: 18;
     font-weight: bold;
-    font-style: oblique;
+    font-style: initial;
     color: rgb(243, 243, 243);
 }
 #para4{
     font-size: 18;
     font-weight: bold;
     font-style: unset;
-    color: rgb(217, 216, 221);
+    color: rgb(28, 6, 117);
 }
-
- body{
-
-    background-image:url(image9.jpg);
-    background-size: cover;
- }
